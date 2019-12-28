@@ -12,6 +12,10 @@ lein do clean, figwheel
 
 Browse to [http://localhost:3449](http://localhost:3449). Figwheel will automatically push cljs changes to the browser.
 
+A screenshot of the app is below:
+
+<img src="img/app-screenshot.png" width="100%" height="100%" />
+
 ## Deploy on Heroku:
 
 1. Create [heroku free account](https://www.heroku.com)
