@@ -10,9 +10,7 @@
                  [soda-ash "0.82.2"]
                  [markdown-to-hiccup "0.6.2"]
                  [com.andrewmcveigh/cljs-time "0.5.2"]
-                 [metosin/reitit "0.3.4"]
-                 [com.degel/re-frame-firebase "0.8.0"]
-                 [clova "0.40.2"]]
+                 [metosin/reitit "0.3.4"]]
 
   :plugins [[lein-cljsbuild "1.1.7"]]
 
