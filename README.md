@@ -14,7 +14,7 @@ Browse to [http://localhost:3449](http://localhost:3449). Figwheel will automati
 
 A screenshot of the app is below:
 
-<img src="img/app-screenshot.png" width="50%" height="50%" />
+<img src="resources/public/img/app-screenshot.png" width="100%" height="100%" />
 
 ## Deploy on Heroku:
 
